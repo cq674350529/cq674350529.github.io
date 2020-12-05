@@ -1,0 +1,8 @@
+# https://cq674350529.github.io robots.txt
+
+User-agent: * 
+
+Disallow:
+
+Sitemap: https://cq674350529.github.io/sitemap.xml
+Sitemap: https://cq674350529.github.io/baidusitemap.xml
