@@ -52,9 +52,9 @@
     <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
-    <category term="补丁分析" scheme="https://cq674350529.github.io/tags/%E8%A1%A5%E4%B8%81%E5%88%86%E6%9E%90/"/>
-    
     <category term="netgear" scheme="https://cq674350529.github.io/tags/netgear/"/>
+    
+    <category term="补丁分析" scheme="https://cq674350529.github.io/tags/%E8%A1%A5%E4%B8%81%E5%88%86%E6%9E%90/"/>
     
   </entry>
   
@@ -163,10 +163,10 @@
     <link href="https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/"/>
     <id>https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/</id>
     <published>2020-05-09T15:00:00.000Z</published>
-    <updated>2021-02-10T15:52:19.275Z</updated>
+    <updated>2021-03-06T07:20:52.421Z</updated>
     
     
-    <summary type="html">&lt;h3 id=&quot;LD-PRELOAD-hook动态链接库函数&quot;&gt;&lt;a href=&quot;#LD-PRELOAD-hook动态链接库函数&quot; class=&quot;headerlink&quot; title=&quot;LD_PRELOAD: hook动态链接库函数&quot;&gt;&lt;/a&gt;&lt;code&gt;LD_PRELOAD&lt;/code&gt;: hook动态链接库函数&lt;/h3&gt;&lt;p&gt;&lt;code&gt;LD_PRELOAD&lt;/code&gt;是&lt;code&gt;Linux&lt;/code&gt;系统中的一个环境变量，利用它可以指定在程序运行前优先加载的动态链接库，实现在主程序和其他动态链接库的中间加载自定义的动态链接库，甚至覆盖正常的函数。一般而言，程序启动后会按一定顺序加载动态库：&lt;/p&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;qemu仿真出现execve-错误&quot;&gt;&lt;a href=&quot;#qemu仿真出现execve-错误&quot; class=&quot;headerlink&quot; title=&quot;qemu仿真出现execve()错误&quot;&gt;&lt;/a&gt;&lt;code&gt;qemu&lt;/code&gt;仿真出现&lt;code&gt;execve()&lt;/code&gt;错误&lt;/h3&gt;&lt;p&gt;在使用&lt;code&gt;qemu user mode&lt;/code&gt;对单个程序进行仿真时，经常会遇到类似&lt;code&gt;&amp;quot;execve(): No such file or directory&amp;quot;&lt;/code&gt;的错误，其是因为在仿真的程序中又调用&lt;code&gt;execve()&lt;/code&gt;来运行其他程序，而此时默认会使用&lt;code&gt;x86/x86_64&lt;/code&gt;架构的&lt;code&gt;ld&lt;/code&gt;来加载程序。&lt;/p&gt;</summary>
     
     
     
