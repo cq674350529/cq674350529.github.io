@@ -66,7 +66,7 @@
     <link href="https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/"/>
     <id>https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/</id>
     <published>2020-10-01T02:00:00.000Z</published>
-    <updated>2020-10-01T03:23:13.000Z</updated>
+    <updated>2021-06-12T08:21:01.852Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;最近看到一篇&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9zZWN1cml0eWFmZmFpcnMuY28vd29yZHByZXNzLzk5MTc3L3NlY3VyaXR5L25ldGdlYXItZmxhZ3NoaXAtbmlnaHRoYXdrLXJvdXRlci1yY2UuaHRtbA==&quot;&gt;安全资讯&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;，提到&lt;code&gt;Netgear&lt;/code&gt;修复了其产品中的多个高危漏洞，包括&lt;code&gt;PSV-2019-0076&lt;/code&gt;、&lt;code&gt;PSV-2018-0352&lt;/code&gt;和&lt;code&gt; PSV-2019-0051&lt;/code&gt;等。其中，利用部分漏洞可实现远程代码执行，且无需认证。以&lt;code&gt;PSV-2019-0076&lt;/code&gt;为例，查看&lt;code&gt;Netgear&lt;/code&gt;的安全公告，如下，并没有透露过多的细节。&lt;/p&gt;</summary>
