@@ -6,7 +6,7 @@
   <link href="https://cq674350529.github.io/atom.xml" rel="self"/>
   
   <link href="https://cq674350529.github.io/"/>
-  <updated>2021-03-19T14:03:15.792Z</updated>
+  <updated>2021-08-30T14:18:29.010Z</updated>
   <id>https://cq674350529.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A Journey into Synology NAS 系列一: 群晖NAS介绍</title>
+    <link href="https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</id>
+    <published>2021-08-30T14:00:00.000Z</published>
+    <updated>2021-08-30T14:18:29.010Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;之前花过一段时间研究群晖的&lt;code&gt;NAS&lt;/code&gt;设备，并发现了一些安全问题，同时该研究内容入选了安全会议&lt;code&gt;POC2019&lt;/code&gt;和&lt;code&gt;HITB2021AMS&lt;/code&gt;。网上关于群晖&lt;code&gt;NAS&lt;/code&gt;设备安全研究的公开资料并不多，因此基于议题&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cucG93ZXJvZmNvbW11bml0eS5uZXQvcG9jMjAxOS9RaWFuLnBkZg==&quot;&gt;《Bug Hunting in Synology NAS》&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;和&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9jb25mZXJlbmNlLmhpdGIub3JnL2ZpbGVzL2hpdGJzZWNjb25mMjAyMWFtcy9tYXRlcmlhbHMvRDFUMiUyMC0lMjBBJTIwSm91cm5leSUyMGludG8lMjBTeW5vbG9neSUyME5BUyUyMC0lMjBRQy5wZGY=&quot;&gt;《A Journey into Synology NAS》&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;，将之前的一些内容展开，如果有对群晖&lt;code&gt;NAS&lt;/code&gt;设备感兴趣的同学，希望对你们有所帮助。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    
+    <category term="Synology" scheme="https://cq674350529.github.io/tags/Synology/"/>
+    
+  </entry>
   
   <entry>
     <title>Netgear R6400v2 堆溢出漏洞分析与利用</title>
@@ -28,9 +47,9 @@
     
     
     
-    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
-    
     <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
     <category term="netgear" scheme="https://cq674350529.github.io/tags/netgear/"/>
@@ -94,9 +113,9 @@
     
     
     
-    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
-    
     <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
     <category term="netgear" scheme="https://cq674350529.github.io/tags/netgear/"/>
@@ -135,9 +154,9 @@
     
     
     
-    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
-    
     <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
     <category term="netgear" scheme="https://cq674350529.github.io/tags/netgear/"/>
@@ -403,29 +422,6 @@
     
     
     <category term="固件" scheme="https://cq674350529.github.io/tags/%E5%9B%BA%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>asis-ctf-2016 pwn 之 b00ks</title>
-    <link href="https://cq674350529.github.io/2018/06/05/asis-ctf-2016-pwn-b00ks/"/>
-    <id>https://cq674350529.github.io/2018/06/05/asis-ctf-2016-pwn-b00ks/</id>
-    <published>2018-06-05T09:17:50.000Z</published>
-    <updated>2019-04-27T07:58:17.000Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;off-by-one-原理&quot;&gt;&lt;a href=&quot;#off-by-one-原理&quot; class=&quot;headerlink&quot; title=&quot;off-by-one 原理&quot;&gt;&lt;/a&gt;off-by-one 原理&lt;/h3&gt;&lt;p&gt;严格来说，off-by-one漏洞是一种特殊的溢出漏洞，指程序向缓冲区中写入时，写入的字节数超过了缓冲区本身的大小，并且只越界了一个字节。这种漏洞的产生往往与边界验证不严或字符串操作有关，当然也有可能写入的size正好就只多了一个字节：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;使用循环语句向缓冲区中写入数据时，循环的次数设置错误导致多写入一个字节&lt;/li&gt;
-&lt;li&gt;字符串操作不合适，比如忽略了字符串末尾的&lt;code&gt;\x00&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="CTF" scheme="https://cq674350529.github.io/categories/CTF/"/>
-    
-    
-    <category term="pwn" scheme="https://cq674350529.github.io/tags/pwn/"/>
     
   </entry>
   
