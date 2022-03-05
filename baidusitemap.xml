@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2022-03-05</lastmod>
+  </url>
+  <url>
     <loc>https://cq674350529.github.io/2022/01/22/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E5%9B%9B-HTTP%E8%AF%B7%E6%B1%82%E6%B5%81%E7%A8%8B%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</loc>
     <lastmod>2022-01-22</lastmod>
   </url>
@@ -11,10 +15,6 @@
   <url>
     <loc>https://cq674350529.github.io/2021/12/25/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%89-iscsi_snapshot_comm_core%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>
     <lastmod>2021-12-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2021-09-12</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2019/05/12/htib2017-pwn-%E4%B9%8B-1000levels/</loc>
