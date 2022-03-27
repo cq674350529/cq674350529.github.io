@@ -78,7 +78,7 @@
     <link href="https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/"/>
     <id>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</id>
     <published>2021-08-30T14:00:00.000Z</published>
-    <updated>2022-03-05T05:36:33.291Z</updated>
+    <updated>2022-03-05T05:58:41.455Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;之前花过一段时间研究群晖的&lt;code&gt;NAS&lt;/code&gt;设备，并发现了一些安全问题，同时该研究内容入选了安全会议&lt;code&gt;POC2019&lt;/code&gt;和&lt;code&gt;HITB2021AMS&lt;/code&gt;。网上关于群晖&lt;code&gt;NAS&lt;/code&gt;设备安全研究的公开资料并不多，因此基于议题&lt;a href=&quot;https://www.powerofcommunity.net/poc2019/Qian.pdf&quot;&gt;《Bug Hunting in Synology NAS》&lt;/a&gt;和&lt;a href=&quot;https://conference.hitb.org/files/hitbsecconf2021ams/materials/D1T2%20-%20A%20Journey%20into%20Synology%20NAS%20-%20QC.pdf&quot;&gt;《A Journey into Synology NAS》&lt;/a&gt;，将之前的一些内容展开，如果有对群晖&lt;code&gt;NAS&lt;/code&gt;设备感兴趣的同学，希望对你们有所帮助。&lt;/p&gt;</summary>
