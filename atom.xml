@@ -104,9 +104,9 @@
     
     
     
-    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
-    
     <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
     <category term="netgear" scheme="https://cq674350529.github.io/tags/netgear/"/>
@@ -163,16 +163,16 @@
     <link href="https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</id>
     <published>2020-09-16T14:00:00.000Z</published>
-    <updated>2021-03-04T14:01:40.161Z</updated>
+    <updated>2022-05-15T04:11:42.816Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;漏洞简介&quot;&gt;&lt;a href=&quot;#漏洞简介&quot; class=&quot;headerlink&quot; title=&quot;漏洞简介&quot;&gt;&lt;/a&gt;漏洞简介&lt;/h3&gt;&lt;p&gt;&lt;code&gt;PSV-2020-0211&lt;/code&gt;对应&lt;code&gt;Netgear&lt;/code&gt; &lt;code&gt;R8300&lt;/code&gt;型号路由器上的一个缓冲区溢出漏洞，&lt;code&gt;Netgear&lt;/code&gt;官方在2020年7月31日发布了&lt;a href=&quot;https://kb.netgear.com/000062158/Security-Advisory-for-Pre-Authentication-Command-Injection-on-R8300-PSV-2020-0211&quot;&gt;安全公告&lt;/a&gt;，8月18日&lt;code&gt;SSD&lt;/code&gt;公开了该漏洞的相关&lt;a href=&quot;https://ssd-disclosure.com/ssd-advisory-netgear-nighthawk-r8300-upnpd-preauth-rce/&quot;&gt;细节&lt;/a&gt;。该漏洞存在于设备的&lt;code&gt;UPnP&lt;/code&gt;服务中，由于在处理数据包时缺乏适当的长度校验，通过发送一个特殊的数据包可造成缓冲区溢出。利用该漏洞，未经认证的用户可实现任意代码执行，从而获取设备的控制权。&lt;/p&gt;</summary>
     
     
     
-    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
-    
     <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
     <category term="netgear" scheme="https://cq674350529.github.io/tags/netgear/"/>
@@ -211,9 +211,9 @@
     
     
     
-    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
-    
     <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
     <category term="netgear" scheme="https://cq674350529.github.io/tags/netgear/"/>
@@ -263,10 +263,10 @@
     <link href="https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/"/>
     <id>https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/</id>
     <published>2020-05-09T15:00:00.000Z</published>
-    <updated>2021-03-06T07:20:52.421Z</updated>
+    <updated>2022-05-16T14:05:24.897Z</updated>
     
     
-    <summary type="html">&lt;h3 id=&quot;qemu仿真出现execve-错误&quot;&gt;&lt;a href=&quot;#qemu仿真出现execve-错误&quot; class=&quot;headerlink&quot; title=&quot;qemu仿真出现execve()错误&quot;&gt;&lt;/a&gt;&lt;code&gt;qemu&lt;/code&gt;仿真出现&lt;code&gt;execve()&lt;/code&gt;错误&lt;/h3&gt;&lt;p&gt;在使用&lt;code&gt;qemu user mode&lt;/code&gt;对单个程序进行仿真时，经常会遇到类似&lt;code&gt;&amp;quot;execve(): No such file or directory&amp;quot;&lt;/code&gt;的错误，其是因为在仿真的程序中又调用&lt;code&gt;execve()&lt;/code&gt;来运行其他程序，而此时默认会使用&lt;code&gt;x86/x86_64&lt;/code&gt;架构的&lt;code&gt;ld&lt;/code&gt;来加载程序。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;qemu仿真PIE程序获取加载基址&quot;&gt;&lt;a href=&quot;#qemu仿真PIE程序获取加载基址&quot; class=&quot;headerlink&quot; title=&quot;qemu仿真PIE程序获取加载基址&quot;&gt;&lt;/a&gt;&lt;code&gt;qemu&lt;/code&gt;仿真&lt;code&gt;PIE&lt;/code&gt;程序获取加载基址&lt;/h3&gt;&lt;p&gt;使用&lt;code&gt;qemu user mode&lt;/code&gt;对单个程序进行仿真，若程序启用了&lt;code&gt;PIE&lt;/code&gt;机制，使用常规的方式貌似无法查看其内存布局，由于不知道程序的加载基地址，造成后续无法下断点进行调试分析等。&lt;/p&gt;</summary>
     
     
     
@@ -386,7 +386,7 @@
     <link href="https://cq674350529.github.io/2019/03/31/IoT%E8%AE%BE%E5%A4%87%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90%E4%B9%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AEfuzz/"/>
     <id>https://cq674350529.github.io/2019/03/31/IoT%E8%AE%BE%E5%A4%87%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90%E4%B9%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AEfuzz/</id>
     <published>2019-03-31T02:00:00.000Z</published>
-    <updated>2020-08-12T13:51:26.000Z</updated>
+    <updated>2022-05-14T13:13:06.054Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt; 通常，在对&lt;code&gt;IoT&lt;/code&gt;设备的固件进行分析时，固件中与提供服务如&lt;code&gt;HTTP&lt;/code&gt;、&lt;code&gt;Telnet&lt;/code&gt;、&lt;code&gt;RTSP&lt;/code&gt;、&lt;code&gt;UPnP&lt;/code&gt;等相关的二进制程序是重点分析的对象。因为一旦在这些程序中发现漏洞，其很有可能会被远程利用，进而带来严重的安全隐患。&lt;/p&gt;
