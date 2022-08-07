@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-08-07</lastmod>
+  </url>
+  <url>
     <loc>https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/</loc>
     <lastmod>2022-05-16</lastmod>
   </url>
@@ -19,10 +23,6 @@
   <url>
     <loc>https://cq674350529.github.io/2022/01/22/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E5%9B%9B-HTTP%E8%AF%B7%E6%B1%82%E6%B5%81%E7%A8%8B%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</loc>
     <lastmod>2022-01-22</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2021-12-25</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2021/12/25/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%89-iscsi_snapshot_comm_core%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>

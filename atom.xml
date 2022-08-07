@@ -59,7 +59,7 @@
     <link href="https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</id>
     <published>2021-09-12T04:00:00.000Z</published>
-    <updated>2021-12-25T01:33:48.618Z</updated>
+    <updated>2022-08-07T05:50:37.077Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;上一篇&lt;a href=&quot;https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/&quot;&gt;文章&lt;/a&gt;主要对群晖&lt;code&gt;NAS&lt;/code&gt;进行了简单介绍，并给出了搭建群晖&lt;code&gt;NAS&lt;/code&gt;环境的方法。在前面的基础上，本篇文章将从局域网的视角出发，对群晖&lt;code&gt;NAS&lt;/code&gt;设备上开放的部分服务进行分析。由于篇幅原因，下面将重点对&lt;code&gt;findhostd&lt;/code&gt;服务进行分析，介绍对应的通信机制和协议格式，并分享在其中发现的部分安全问题。&lt;/p&gt;</summary>
