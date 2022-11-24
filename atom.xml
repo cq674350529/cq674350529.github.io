@@ -6,7 +6,7 @@
   <link href="https://cq674350529.github.io/atom.xml" rel="self"/>
   
   <link href="https://cq674350529.github.io/"/>
-  <updated>2022-01-22T06:13:14.380Z</updated>
+  <updated>2022-11-24T01:52:55.071Z</updated>
   <id>https://cq674350529.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cq674350529.github.io/2022/01/22/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E5%9B%9B-HTTP%E8%AF%B7%E6%B1%82%E6%B5%81%E7%A8%8B%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2022/01/22/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E5%9B%9B-HTTP%E8%AF%B7%E6%B1%82%E6%B5%81%E7%A8%8B%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</id>
     <published>2022-01-22T04:00:00.000Z</published>
-    <updated>2022-01-22T06:13:14.380Z</updated>
+    <updated>2022-11-24T01:52:55.071Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;前面两篇文章从局域网的角度出发，对群晖&lt;code&gt;NAS&lt;/code&gt;设备上开放的部分服务进行了分析。而在大部分情况下，群晖&lt;code&gt;NAS&lt;/code&gt;设备是用于远程访问的场景中，即唯一的入口是通过&lt;code&gt;5000/http(5001/https)&lt;/code&gt;进行访问(暂不考虑使用&lt;code&gt;QuickConnect&lt;/code&gt;或其他代理的情形)。因此，本篇文章将主要对&lt;code&gt;HTTP&lt;/code&gt;请求流程和处理机制进行分析，并分享在部分套件中发现的几个安全问题。&lt;/p&gt;</summary>
@@ -40,7 +40,7 @@
     <link href="https://cq674350529.github.io/2021/12/25/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%89-iscsi_snapshot_comm_core%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2021/12/25/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%89-iscsi_snapshot_comm_core%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</id>
     <published>2021-12-25T01:00:00.000Z</published>
-    <updated>2021-12-25T01:30:53.708Z</updated>
+    <updated>2022-11-24T01:52:46.539Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;上一篇&lt;a href=&quot;https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/&quot;&gt;文章&lt;/a&gt;主要对群晖&lt;code&gt;NAS&lt;/code&gt;设备上的&lt;code&gt;findhostd&lt;/code&gt;服务进行了分析。本篇文章将继续对另一个服务&lt;code&gt;iscsi_snapshot_comm_core&lt;/code&gt;进行分析，介绍其对应的通信流程，并分享在其中发现的几个安全问题。&lt;/p&gt;</summary>
@@ -59,7 +59,7 @@
     <link href="https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</id>
     <published>2021-09-12T04:00:00.000Z</published>
-    <updated>2022-08-07T05:50:37.077Z</updated>
+    <updated>2022-11-24T01:52:37.686Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;上一篇&lt;a href=&quot;https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/&quot;&gt;文章&lt;/a&gt;主要对群晖&lt;code&gt;NAS&lt;/code&gt;进行了简单介绍，并给出了搭建群晖&lt;code&gt;NAS&lt;/code&gt;环境的方法。在前面的基础上，本篇文章将从局域网的视角出发，对群晖&lt;code&gt;NAS&lt;/code&gt;设备上开放的部分服务进行分析。由于篇幅原因，下面将重点对&lt;code&gt;findhostd&lt;/code&gt;服务进行分析，介绍对应的通信机制和协议格式，并分享在其中发现的部分安全问题。&lt;/p&gt;</summary>
@@ -78,7 +78,7 @@
     <link href="https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/"/>
     <id>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</id>
     <published>2021-08-30T14:00:00.000Z</published>
-    <updated>2022-03-05T05:58:41.455Z</updated>
+    <updated>2022-11-24T01:54:09.384Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;之前花过一段时间研究群晖的&lt;code&gt;NAS&lt;/code&gt;设备，并发现了一些安全问题，同时该研究内容入选了安全会议&lt;code&gt;POC2019&lt;/code&gt;和&lt;code&gt;HITB2021AMS&lt;/code&gt;。网上关于群晖&lt;code&gt;NAS&lt;/code&gt;设备安全研究的公开资料并不多，因此基于议题&lt;a href=&quot;https://www.powerofcommunity.net/poc2019/Qian.pdf&quot;&gt;《Bug Hunting in Synology NAS》&lt;/a&gt;和&lt;a href=&quot;https://conference.hitb.org/files/hitbsecconf2021ams/materials/D1T2%20-%20A%20Journey%20into%20Synology%20NAS%20-%20QC.pdf&quot;&gt;《A Journey into Synology NAS》&lt;/a&gt;，将之前的一些内容展开，如果有对群晖&lt;code&gt;NAS&lt;/code&gt;设备感兴趣的同学，希望对你们有所帮助。&lt;/p&gt;</summary>
@@ -97,7 +97,7 @@
     <link href="https://cq674350529.github.io/2021/03/19/Netgear-R6400v2-%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8/"/>
     <id>https://cq674350529.github.io/2021/03/19/Netgear-R6400v2-%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8/</id>
     <published>2021-03-19T14:00:00.000Z</published>
-    <updated>2021-03-19T14:03:15.792Z</updated>
+    <updated>2022-11-24T01:56:19.238Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;漏洞简介&quot;&gt;&lt;a href=&quot;#漏洞简介&quot; class=&quot;headerlink&quot; title=&quot;漏洞简介&quot;&gt;&lt;/a&gt;漏洞简介&lt;/h3&gt;&lt;p&gt;2020年6月，&lt;code&gt;ZDI&lt;/code&gt;发布了一个关于&lt;code&gt;Netgear R6700&lt;/code&gt;型号设备上堆溢出漏洞的&lt;a href=&quot;https://www.zerodayinitiative.com/advisories/ZDI-20-709/&quot;&gt;安全公告&lt;/a&gt;，随后又发布了一篇关于该漏洞的&lt;a href=&quot;https://www.zerodayinitiative.com/blog/2020/6/24/zdi-20-709-heap-overflow-in-the-netgear-nighthawk-r6700-router&quot;&gt;博客&lt;/a&gt;，其中对该漏洞进行了详细分析，并给出了完整的漏洞利用代码。该漏洞存在于对应设备的&lt;code&gt;httpd&lt;/code&gt;组件中，在处理配置文件上传请求时，由于对请求内容的处理不当，在后续申请内存空间时存在整数溢出问题，从而造成堆溢出问题。攻击者利用这一漏洞可以在目标设备上实现代码执行，且无需认证。&lt;/p&gt;</summary>
@@ -118,7 +118,7 @@
     <link href="https://cq674350529.github.io/2021/03/04/Zyxel%E8%AE%BE%E5%A4%87eCos%E5%9B%BA%E4%BB%B6%E5%8A%A0%E8%BD%BD%E5%9C%B0%E5%9D%80%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2021/03/04/Zyxel%E8%AE%BE%E5%A4%87eCos%E5%9B%BA%E4%BB%B6%E5%8A%A0%E8%BD%BD%E5%9C%B0%E5%9D%80%E5%88%86%E6%9E%90/</id>
     <published>2021-03-04T12:00:00.000Z</published>
-    <updated>2021-04-15T16:18:42.944Z</updated>
+    <updated>2022-11-24T01:55:44.568Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;blockquote&gt;
@@ -142,7 +142,7 @@
     <link href="https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/"/>
     <id>https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/</id>
     <published>2020-10-01T02:00:00.000Z</published>
-    <updated>2021-06-12T08:21:01.852Z</updated>
+    <updated>2022-11-24T01:56:14.398Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;最近看到一篇&lt;a href=&quot;https://securityaffairs.co/wordpress/99177/security/netgear-flagship-nighthawk-router-rce.html&quot;&gt;安全资讯&lt;/a&gt;，提到&lt;code&gt;Netgear&lt;/code&gt;修复了其产品中的多个高危漏洞，包括&lt;code&gt;PSV-2019-0076&lt;/code&gt;、&lt;code&gt;PSV-2018-0352&lt;/code&gt;和&lt;code&gt; PSV-2019-0051&lt;/code&gt;等。其中，利用部分漏洞可实现远程代码执行，且无需认证。以&lt;code&gt;PSV-2019-0076&lt;/code&gt;为例，查看&lt;code&gt;Netgear&lt;/code&gt;的安全公告，如下，并没有透露过多的细节。&lt;/p&gt;</summary>
@@ -163,7 +163,7 @@
     <link href="https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</id>
     <published>2020-09-16T14:00:00.000Z</published>
-    <updated>2022-05-15T04:11:42.816Z</updated>
+    <updated>2022-11-24T01:56:00.127Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;漏洞简介&quot;&gt;&lt;a href=&quot;#漏洞简介&quot; class=&quot;headerlink&quot; title=&quot;漏洞简介&quot;&gt;&lt;/a&gt;漏洞简介&lt;/h3&gt;&lt;p&gt;&lt;code&gt;PSV-2020-0211&lt;/code&gt;对应&lt;code&gt;Netgear&lt;/code&gt; &lt;code&gt;R8300&lt;/code&gt;型号路由器上的一个缓冲区溢出漏洞，&lt;code&gt;Netgear&lt;/code&gt;官方在2020年7月31日发布了&lt;a href=&quot;https://kb.netgear.com/000062158/Security-Advisory-for-Pre-Authentication-Command-Injection-on-R8300-PSV-2020-0211&quot;&gt;安全公告&lt;/a&gt;，8月18日&lt;code&gt;SSD&lt;/code&gt;公开了该漏洞的相关&lt;a href=&quot;https://ssd-disclosure.com/ssd-advisory-netgear-nighthawk-r8300-upnpd-preauth-rce/&quot;&gt;细节&lt;/a&gt;。该漏洞存在于设备的&lt;code&gt;UPnP&lt;/code&gt;服务中，由于在处理数据包时缺乏适当的长度校验，通过发送一个特殊的数据包可造成缓冲区溢出。利用该漏洞，未经认证的用户可实现任意代码执行，从而获取设备的控制权。&lt;/p&gt;</summary>
@@ -184,7 +184,7 @@
     <link href="https://cq674350529.github.io/2020/09/03/Create-Wireshark-Dissector-in-Lua/"/>
     <id>https://cq674350529.github.io/2020/09/03/Create-Wireshark-Dissector-in-Lua/</id>
     <published>2020-09-03T12:38:24.000Z</published>
-    <updated>2021-03-19T14:03:54.478Z</updated>
+    <updated>2022-11-24T01:54:41.296Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在对嵌入式设备进行分析时，有时会遇到一些私有协议，由于缺少对应的解析插件，这些协议无法被&lt;code&gt;Wireshark&lt;/code&gt;解析，从而以原始数据的形式呈现，不便于对协议的理解与分析。正好之前看到了介绍用&lt;code&gt;Lua&lt;/code&gt;脚本编写&lt;code&gt;Wireshark&lt;/code&gt;协议解析插件的&lt;a href=&quot;https://mika-s.github.io/wireshark/lua/dissector/2017/11/04/creating-a-wireshark-dissector-in-lua-1.html&quot;&gt;文章&lt;/a&gt;，于是以群晖&lt;code&gt;NAS&lt;/code&gt;设备中的某个私有协议为例，动手写了一个协议解析插件。&lt;/p&gt;</summary>
@@ -203,7 +203,7 @@
     <link href="https://cq674350529.github.io/2020/07/04/Pwn2Own-Netgear-R6700-UPnP%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2020/07/04/Pwn2Own-Netgear-R6700-UPnP%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</id>
     <published>2020-07-04T02:00:00.000Z</published>
-    <updated>2020-08-12T14:15:16.000Z</updated>
+    <updated>2022-11-24T01:56:04.923Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;6月15日，&lt;code&gt;ZDI&lt;/code&gt;发布了有关&lt;code&gt;NETGEAR&lt;/code&gt; &lt;code&gt;R6700&lt;/code&gt;型号路由器的10个&lt;code&gt;0 day&lt;/code&gt;的安全公告，其中有2个关于&lt;code&gt;UPnP&lt;/code&gt;的漏洞：&lt;a href=&quot;https://www.zerodayinitiative.com/advisories/ZDI-20-703/&quot;&gt;认证绕过&lt;/a&gt;和&lt;a href=&quot;https://www.zerodayinitiative.com/advisories/ZDI-20-704/&quot;&gt;缓冲区溢出&lt;/a&gt;。通过组合这2个漏洞，在&lt;code&gt;Pwn2Own Tokyo 2019&lt;/code&gt;比赛中，来自&lt;code&gt;Team Flashback&lt;/code&gt;的安全研究员&lt;code&gt;Pedro Ribeiro&lt;/code&gt;和&lt;code&gt;Radek Domanski&lt;/code&gt;成功在&lt;code&gt;R6700v3&lt;/code&gt;设备上实现代码执行。&lt;/p&gt;
@@ -225,7 +225,7 @@
     <link href="https://cq674350529.github.io/2020/07/01/MikroTik-SMB%E6%B5%8B%E8%AF%95%E4%B9%8BMutiny-Fuzzer/"/>
     <id>https://cq674350529.github.io/2020/07/01/MikroTik-SMB%E6%B5%8B%E8%AF%95%E4%B9%8BMutiny-Fuzzer/</id>
     <published>2020-07-01T13:00:00.000Z</published>
-    <updated>2020-09-03T12:44:46.000Z</updated>
+    <updated>2022-11-24T01:56:09.530Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&lt;code&gt;Mutiny&lt;/code&gt;是由思科研究人员开发的一款基于变异的网络&lt;code&gt;fuzz&lt;/code&gt;框架，其主要原理是通过从数据包(如&lt;code&gt;pcap&lt;/code&gt;文件)中解析协议请求并生成一个&lt;code&gt;.fuzzer&lt;/code&gt;文件，然后基于该文件对请求进行变异，再发送给待测试的目标。通过这种方式，可以在很短的时间内开始对目标进行&lt;code&gt;fuzz&lt;/code&gt;，而不用关心相关网络协议的具体细节。&lt;/p&gt;</summary>
@@ -244,7 +244,7 @@
     <link href="https://cq674350529.github.io/2020/06/25/CDPwn%E7%B3%BB%E5%88%97%E4%B9%8BCVE-2020-3119%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2020/06/25/CDPwn%E7%B3%BB%E5%88%97%E4%B9%8BCVE-2020-3119%E5%88%86%E6%9E%90/</id>
     <published>2020-06-25T14:00:00.000Z</published>
-    <updated>2020-08-12T13:53:35.000Z</updated>
+    <updated>2022-11-24T01:54:32.138Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;漏洞简介&quot;&gt;&lt;a href=&quot;#漏洞简介&quot; class=&quot;headerlink&quot; title=&quot;漏洞简介&quot;&gt;&lt;/a&gt;漏洞简介&lt;/h3&gt;&lt;p&gt;&lt;code&gt;CDPwn&lt;/code&gt;系列漏洞是由来自&lt;code&gt;Armis&lt;/code&gt;的安全研究员在思科&lt;code&gt;CDP(Cisco Discovery Protocol)&lt;/code&gt;协议中发现的5个&lt;code&gt;0 day&lt;/code&gt;漏洞，影响的产品包括思科交换机、路由器、&lt;code&gt;IP&lt;/code&gt;电话以及摄像机等。其中，&lt;code&gt;CVE-2020-3119&lt;/code&gt;是&lt;code&gt;NX-OS&lt;/code&gt;系统中存在的一个栈溢出漏洞，利用该漏洞可在受影响的设备(如&lt;code&gt;Nexus&lt;/code&gt;系列交换机)上实现任意代码执行，如修改&lt;code&gt;Nexus&lt;/code&gt;交换机的配置以穿越&lt;code&gt;VLAN&lt;/code&gt;等。&lt;/p&gt;</summary>
@@ -263,7 +263,7 @@
     <link href="https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/"/>
     <id>https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/</id>
     <published>2020-05-09T15:00:00.000Z</published>
-    <updated>2022-05-16T14:05:24.897Z</updated>
+    <updated>2022-11-24T01:55:39.389Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;qemu仿真PIE程序获取加载基址&quot;&gt;&lt;a href=&quot;#qemu仿真PIE程序获取加载基址&quot; class=&quot;headerlink&quot; title=&quot;qemu仿真PIE程序获取加载基址&quot;&gt;&lt;/a&gt;&lt;code&gt;qemu&lt;/code&gt;仿真&lt;code&gt;PIE&lt;/code&gt;程序获取加载基址&lt;/h3&gt;&lt;p&gt;使用&lt;code&gt;qemu user mode&lt;/code&gt;对单个程序进行仿真，若程序启用了&lt;code&gt;PIE&lt;/code&gt;机制，使用常规的方式貌似无法查看其内存布局，由于不知道程序的加载基地址，造成后续无法下断点进行调试分析等。&lt;/p&gt;</summary>
@@ -282,7 +282,7 @@
     <link href="https://cq674350529.github.io/2020/03/03/Mikrotik-Chimay-Red-%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2020/03/03/Mikrotik-Chimay-Red-%E5%88%86%E6%9E%90/</id>
     <published>2020-03-03T12:00:00.000Z</published>
-    <updated>2020-08-12T13:51:06.000Z</updated>
+    <updated>2022-11-24T01:56:23.643Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&lt;code&gt;Chimay-Red&lt;/code&gt;是针对&lt;code&gt;MikroTik RouterOs&lt;/code&gt;中&lt;code&gt;www&lt;/code&gt;程序存在的一个漏洞的利用工具，该工具在泄露的&lt;code&gt;Vault 7&lt;/code&gt;文件中提及。利用该工具，在无需认证的前提下可在受影响的设备上实现远程代码执行，从而获取设备的控制权。该漏洞本质上是一个整数溢出漏洞，对漏洞的利用则通过堆叠远程多线程栈空间的思路完成。更多信息可参考博客&lt;a href=&quot;https://blog.seekintoo.com/chimay-red/&quot;&gt;Chimay-Red&lt;/a&gt;。&lt;/p&gt;
@@ -302,7 +302,7 @@
     <link href="https://cq674350529.github.io/2020/01/13/C%E4%B8%8E%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E6%B7%B7%E5%90%88%E4%BD%BF%E7%94%A8/"/>
     <id>https://cq674350529.github.io/2020/01/13/C%E4%B8%8E%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E6%B7%B7%E5%90%88%E4%BD%BF%E7%94%A8/</id>
     <published>2020-01-13T13:41:10.000Z</published>
-    <updated>2020-01-13T14:03:01.000Z</updated>
+    <updated>2022-11-24T01:55:14.093Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在某些情况下，我们可能会将C代码与汇编代码一起混合使用。比如，使用汇编代码直接与硬件进行交互，或者在处理任务时希望占用尽量少的资源同时获得最大的性能，而使用C代码处理一些更高级 的任务。通常情况下，混合使用C与汇编可分为以下三种情形：&lt;/p&gt;
@@ -326,7 +326,7 @@
     <link href="https://cq674350529.github.io/2019/08/23/MikroTik-RouterOS%E6%BC%8F%E6%B4%9ECVE-2019-13954%E5%88%86%E6%9E%90/"/>
     <id>https://cq674350529.github.io/2019/08/23/MikroTik-RouterOS%E6%BC%8F%E6%B4%9ECVE-2019-13954%E5%88%86%E6%9E%90/</id>
     <published>2019-08-23T13:00:00.000Z</published>
-    <updated>2020-08-12T15:32:03.000Z</updated>
+    <updated>2022-11-24T01:56:28.715Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;漏洞简介&quot;&gt;&lt;a href=&quot;#漏洞简介&quot; class=&quot;headerlink&quot; title=&quot;漏洞简介&quot;&gt;&lt;/a&gt;漏洞简介&lt;/h3&gt;&lt;p&gt;&lt;code&gt;CVE-2019-13954&lt;/code&gt;是&lt;code&gt;MikroTik RouterOS&lt;/code&gt;中存在的一个&lt;code&gt;memory exhaustion&lt;/code&gt;漏洞。认证的用户通过构造并发送一个特殊的&lt;code&gt;POST&lt;/code&gt;请求，服务程序在处理&lt;code&gt;POST&lt;/code&gt;请求时会陷入”死”循环，造成&lt;code&gt;memory exhaustion&lt;/code&gt;，导致对应的服务程序崩溃或者系统重启。&lt;/p&gt;
@@ -346,7 +346,7 @@
     <link href="https://cq674350529.github.io/2019/08/15/CVE-2018-1158-MikroTik-RouterOS%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E5%8F%91%E7%8E%B0CVE-2019-13955/"/>
     <id>https://cq674350529.github.io/2019/08/15/CVE-2018-1158-MikroTik-RouterOS%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E5%8F%91%E7%8E%B0CVE-2019-13955/</id>
     <published>2019-08-15T12:00:00.000Z</published>
-    <updated>2020-08-12T13:52:45.000Z</updated>
+    <updated>2022-11-24T01:55:06.404Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;漏洞简介&quot;&gt;&lt;a href=&quot;#漏洞简介&quot; class=&quot;headerlink&quot; title=&quot;漏洞简介&quot;&gt;&lt;/a&gt;漏洞简介&lt;/h3&gt;&lt;p&gt;&lt;code&gt;CVE-2018-1158&lt;/code&gt;是&lt;code&gt;MikroTik&lt;/code&gt;路由器中存在的一个&lt;code&gt;stack exhaustion&lt;/code&gt;漏洞。认证的用户通过构造并发送一个特殊的&lt;code&gt;json&lt;/code&gt;消息，处理程序在解析该&lt;code&gt;json&lt;/code&gt;消息时会出现递归调用，造成&lt;code&gt;stack exhaustion&lt;/code&gt;，导致对应的服务崩溃重启。&lt;/p&gt;
@@ -366,7 +366,7 @@
     <link href="https://cq674350529.github.io/2019/05/12/htib2017-pwn-%E4%B9%8B-1000levels/"/>
     <id>https://cq674350529.github.io/2019/05/12/htib2017-pwn-%E4%B9%8B-1000levels/</id>
     <published>2019-05-12T09:19:30.000Z</published>
-    <updated>2021-08-01T14:14:02.145Z</updated>
+    <updated>2022-11-24T01:56:33.030Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;最近在安全客上看到一篇文章&lt;a href=&quot;https://www.anquanke.com/post/id/177520&quot;&gt;PIE保护详解和常用bypass手段&lt;/a&gt;，里面提到了3种绕过PIE保护机制的方式：&lt;code&gt;partial write&lt;/code&gt;、&lt;code&gt;泄露地址&lt;/code&gt;和&lt;code&gt;vdso/vsyscall&lt;/code&gt;。由于之前对&lt;code&gt;vdso/vsyscall&lt;/code&gt;机制了解的不多，于是花了点时间动手实践，以下是对题目&lt;code&gt;1000levels&lt;/code&gt;的简单分析。&lt;/p&gt;
@@ -386,7 +386,7 @@
     <link href="https://cq674350529.github.io/2019/03/31/IoT%E8%AE%BE%E5%A4%87%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90%E4%B9%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AEfuzz/"/>
     <id>https://cq674350529.github.io/2019/03/31/IoT%E8%AE%BE%E5%A4%87%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90%E4%B9%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AEfuzz/</id>
     <published>2019-03-31T02:00:00.000Z</published>
-    <updated>2022-05-14T13:13:06.054Z</updated>
+    <updated>2022-11-24T01:56:38.667Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt; 通常，在对&lt;code&gt;IoT&lt;/code&gt;设备的固件进行分析时，固件中与提供服务如&lt;code&gt;HTTP&lt;/code&gt;、&lt;code&gt;Telnet&lt;/code&gt;、&lt;code&gt;RTSP&lt;/code&gt;、&lt;code&gt;UPnP&lt;/code&gt;等相关的二进制程序是重点分析的对象。因为一旦在这些程序中发现漏洞，其很有可能会被远程利用，进而带来严重的安全隐患。&lt;/p&gt;
@@ -406,7 +406,7 @@
     <link href="https://cq674350529.github.io/2019/03/18/D-Link-DIR-850L%E8%B7%AF%E7%94%B1%E5%99%A8%E5%88%86%E6%9E%90%E4%B9%8B%E8%8E%B7%E5%8F%96%E8%AE%BE%E5%A4%87shell/"/>
     <id>https://cq674350529.github.io/2019/03/18/D-Link-DIR-850L%E8%B7%AF%E7%94%B1%E5%99%A8%E5%88%86%E6%9E%90%E4%B9%8B%E8%8E%B7%E5%8F%96%E8%AE%BE%E5%A4%87shell/</id>
     <published>2019-03-18T14:00:00.000Z</published>
-    <updated>2020-08-12T15:43:52.000Z</updated>
+    <updated>2022-11-24T01:56:43.901Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在对IoT设备进行安全分析时，通常设备对我们而言像个”黑盒子”，通过给它提供输入然后观察它的反馈输出，而对设备的”内部”并不了解。如果能够通过某种方式进入设备”内部”，获取到设备的shell，则会对后续的分析提供极大的便利。&lt;/p&gt;</summary>

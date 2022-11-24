@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2022-08-07</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/</loc>
-    <lastmod>2022-05-16</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2022-05-15</lastmod>
+    <loc>https://cq674350529.github.io/2019/03/18/D-Link-DIR-850L%E8%B7%AF%E7%94%B1%E5%99%A8%E5%88%86%E6%9E%90%E4%B9%8B%E8%8E%B7%E5%8F%96%E8%AE%BE%E5%A4%87shell/</loc>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2019/03/31/IoT%E8%AE%BE%E5%A4%87%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90%E4%B9%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AEfuzz/</loc>
-    <lastmod>2022-05-14</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2022-03-05</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2022/01/22/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E5%9B%9B-HTTP%E8%AF%B7%E6%B1%82%E6%B5%81%E7%A8%8B%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2022-01-22</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2021/12/25/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%89-iscsi_snapshot_comm_core%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2021-12-25</lastmod>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2019/05/12/htib2017-pwn-%E4%B9%8B-1000levels/</loc>
-    <lastmod>2021-08-01</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/</loc>
-    <lastmod>2021-06-12</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2021/03/04/Zyxel%E8%AE%BE%E5%A4%87eCos%E5%9B%BA%E4%BB%B6%E5%8A%A0%E8%BD%BD%E5%9C%B0%E5%9D%80%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2021-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2020/09/03/Create-Wireshark-Dissector-in-Lua/</loc>
-    <lastmod>2021-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2021/03/19/Netgear-R6400v2-%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8/</loc>
-    <lastmod>2021-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2019/03/01/CVE-2018-0296-Cisco-ASA-%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2020-12-05</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2020/07/01/MikroTik-SMB%E6%B5%8B%E8%AF%95%E4%B9%8BMutiny-Fuzzer/</loc>
-    <lastmod>2020-09-03</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2019/03/18/D-Link-DIR-850L%E8%B7%AF%E7%94%B1%E5%99%A8%E5%88%86%E6%9E%90%E4%B9%8B%E8%8E%B7%E5%8F%96%E8%AE%BE%E5%A4%87shell/</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2019/08/23/MikroTik-RouterOS%E6%BC%8F%E6%B4%9ECVE-2019-13954%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2020-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2020/07/04/Pwn2Own-Netgear-R6700-UPnP%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2020-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2016/04/27/2015%E5%BC%BA%E7%BD%91%E6%9D%AFpwn%E4%B9%8Bshellman/</loc>
-    <lastmod>2020-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2020/06/25/CDPwn%E7%B3%BB%E5%88%97%E4%B9%8BCVE-2020-3119%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2020-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2018/10/28/ctf-201809-re-writeup/</loc>
-    <lastmod>2020-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://cq674350529.github.io/2019/08/15/CVE-2018-1158-MikroTik-RouterOS%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E5%8F%91%E7%8E%B0CVE-2019-13955/</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2020/03/03/Mikrotik-Chimay-Red-%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2021/03/19/Netgear-R6400v2-%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2020/07/01/MikroTik-SMB%E6%B5%8B%E8%AF%95%E4%B9%8BMutiny-Fuzzer/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2020/07/04/Pwn2Own-Netgear-R6700-UPnP%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2018/05/07/Solve-baby-mips-with-angr/</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2018/09/19/TP-Link-wr886v6-%E5%9B%BA%E4%BB%B6%E8%A7%A3%E6%9E%90/</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2021/03/04/Zyxel%E8%AE%BE%E5%A4%87eCos%E5%9B%BA%E4%BB%B6%E5%8A%A0%E8%BD%BD%E5%9C%B0%E5%9D%80%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/</loc>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2020/01/13/C%E4%B8%8E%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E6%B7%B7%E5%90%88%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2020-01-13</lastmod>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2019/08/15/CVE-2018-1158-MikroTik-RouterOS%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E5%8F%91%E7%8E%B0CVE-2019-13955/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2019/03/01/CVE-2018-0296-Cisco-ASA-%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2018/10/28/ctf-201809-re-writeup/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2020/09/03/Create-Wireshark-Dissector-in-Lua/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2020/06/25/CDPwn%E7%B3%BB%E5%88%97%E4%B9%8BCVE-2020-3119%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>https://cq674350529.github.io/2018/06/05/asis-ctf-2016-pwn-b00ks/</loc>
-    <lastmod>2019-04-27</lastmod>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2022/01/22/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E5%9B%9B-HTTP%E8%AF%B7%E6%B1%82%E6%B5%81%E7%A8%8B%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2021/12/25/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%89-iscsi_snapshot_comm_core%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2021/09/12/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%BA%8C-findhostd%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2022-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cq674350529.github.io/2016/04/27/2015%E5%BC%BA%E7%BD%91%E6%9D%AFpwn%E4%B9%8Bshellman/</loc>
+    <lastmod>2022-11-24</lastmod>
   </url>
 </urlset> 
