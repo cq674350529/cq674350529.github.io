@@ -2,6 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cq674350529.github.io/2023/02/10/Analyzing-an-Old-Netatalk-dsi-writeinit-Buffer-Overflow-Vulnerability-in-NETGEAR-Router/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2020/07/04/Pwn2Own-Netgear-R6700-UPnP%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2021/03/19/Netgear-R6400v2-%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2019/03/01/CVE-2018-0296-Cisco-ASA-%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2020/06/25/CDPwn%E7%B3%BB%E5%88%97%E4%B9%8BCVE-2020-3119%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2019/08/15/CVE-2018-1158-MikroTik-RouterOS%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E5%8F%91%E7%8E%B0CVE-2019-13955/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2020/07/01/MikroTik-SMB%E6%B5%8B%E8%AF%95%E4%B9%8BMutiny-Fuzzer/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2019/08/23/MikroTik-RouterOS%E6%BC%8F%E6%B4%9ECVE-2019-13954%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/2020/03/03/Mikrotik-Chimay-Red-%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/about/index.html</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cq674350529.github.io/2021/08/30/A-Journey-into-Synology-NAS-%E7%B3%BB%E5%88%97%E4%B8%80-%E7%BE%A4%E6%99%96NAS%E4%BB%8B%E7%BB%8D/</loc>
     
     <lastmod>2023-02-05</lastmod>
@@ -12,13 +96,6 @@
     <loc>https://cq674350529.github.io/2023/01/06/Patch-diff-an-old-vulnerability-in-Synology-NAS/</loc>
     
     <lastmod>2023-01-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/about/index.html</loc>
-    
-    <lastmod>2022-12-11</lastmod>
     
   </url>
   
@@ -38,55 +115,6 @@
   
   <url>
     <loc>https://cq674350529.github.io/2019/05/12/htib2017-pwn-%E4%B9%8B-1000levels/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2019/08/23/MikroTik-RouterOS%E6%BC%8F%E6%B4%9ECVE-2019-13954%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2020/03/03/Mikrotik-Chimay-Red-%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2021/03/19/Netgear-R6400v2-%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2020/10/01/NETGEAR-PSV-2019-0076-%E4%BB%8E%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A%E5%88%B0PoC/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2020/07/01/MikroTik-SMB%E6%B5%8B%E8%AF%95%E4%B9%8BMutiny-Fuzzer/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2020/07/04/Pwn2Own-Netgear-R6700-UPnP%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2020/09/16/PSV-2020-0211-Netgear-R8300-UPnP%E6%A0%88%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
     
     <lastmod>2022-11-24</lastmod>
     
@@ -128,20 +156,6 @@
   </url>
   
   <url>
-    <loc>https://cq674350529.github.io/2019/08/15/CVE-2018-1158-MikroTik-RouterOS%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E5%8F%91%E7%8E%B0CVE-2019-13955/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2019/03/01/CVE-2018-0296-Cisco-ASA-%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://cq674350529.github.io/2018/10/28/ctf-201809-re-writeup/</loc>
     
     <lastmod>2022-11-24</lastmod>
@@ -150,13 +164,6 @@
   
   <url>
     <loc>https://cq674350529.github.io/2020/09/03/Create-Wireshark-Dissector-in-Lua/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/2020/06/25/CDPwn%E7%B3%BB%E5%88%97%E4%B9%8BCVE-2020-3119%E5%88%86%E6%9E%90/</loc>
     
     <lastmod>2022-11-24</lastmod>
     
@@ -221,7 +228,7 @@
 
   <url>
     <loc>https://cq674350529.github.io/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -229,91 +236,91 @@
   
   <url>
     <loc>https://cq674350529.github.io/tags/pwn/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/Synology/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cq674350529.github.io/tags/cisco/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <loc>https://cq674350529.github.io/tags/Netgear/</loc>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cq674350529.github.io/tags/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</loc>
-    <lastmod>2023-02-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/tags/mikrotik/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <loc>https://cq674350529.github.io/tags/Cisco/</loc>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/%E5%8D%8F%E8%AE%AE/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/tags/MikroTik/</loc>
+    <lastmod>2023-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cq674350529.github.io/tags/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</loc>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/%E5%9B%BA%E4%BB%B6/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/%E8%A1%A5%E4%B8%81%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2023-02-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cq674350529.github.io/tags/netgear/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/%E9%80%86%E5%90%91/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/angr/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/tags/eCos/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -322,35 +329,35 @@
   
   <url>
     <loc>https://cq674350529.github.io/categories/CTF/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/categories/IoT/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/categories/%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cq674350529.github.io/categories/fuzz/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
