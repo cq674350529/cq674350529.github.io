@@ -6,7 +6,7 @@
   <link href="https://cq674350529.github.io/atom.xml" rel="self"/>
   
   <link href="https://cq674350529.github.io/"/>
-  <updated>2023-02-10T14:29:23.505Z</updated>
+  <updated>2023-07-29T07:53:26.321Z</updated>
   <id>https://cq674350529.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Analyzing the Vulnerability in ASUS Router (maybe) from TFC2021</title>
+    <link href="https://cq674350529.github.io/2023/07/29/Analyzing-the-Vulnerability-in-ASUS-Router-maybe-from-TFC2021/"/>
+    <id>https://cq674350529.github.io/2023/07/29/Analyzing-the-Vulnerability-in-ASUS-Router-maybe-from-TFC2021/</id>
+    <published>2023-07-29T07:49:29.000Z</published>
+    <updated>2023-07-29T07:53:26.321Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&lt;code&gt;2021&lt;/code&gt;年天府杯破解大赛的设备类项目包含群晖和华硕两个项目，其中，群晖设备(&lt;code&gt;DS220j&lt;/code&gt;)暂时无选手攻破，而华硕设备(&lt;code&gt;RT-AX56U V2/热血版&lt;/code&gt;)则被两队选手成功拿下。笔者在前期主要关注群晖设备，也顺带看了下华硕设备，虽然发现了其他的小问题，但是未发现这个整数溢出漏洞 。目前华硕官方已发布对应的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cuYXN1cy5jb20uY24vTmV0d29ya2luZy1Jb1QtU2VydmVycy9XaUZpLVJvdXRlcnMvQWxsLXNlcmllcy9SVC1BWDU2VS1WMi9IZWxwRGVza19CSU9TLw==&quot;&gt;补丁&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;，网上也有其他师傅对这个漏洞进行了详细的分析，感兴趣地可以看看 &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9wYXBlci5zZWVidWcub3JnLzE3NTEv&quot;&gt;“天府杯华硕会战的围剿与反围剿”&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; 和 &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93enQuYWMuY24vMjAyMS8xMS8wMi9URkMyMDIxLUFYNTZVLw==&quot;&gt;“Tianfu Cup 2021 RT-AX56U RCE”&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;。参考上面两篇文章，下文将对漏洞进行分析，并重点关注漏洞的利用思路。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
+    
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
+    
+    
+    <category term="ASUS" scheme="https://cq674350529.github.io/tags/ASUS/"/>
+    
+  </entry>
   
   <entry>
     <title>Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router</title>
@@ -194,9 +215,9 @@
     <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
-    <category term="Netgear" scheme="https://cq674350529.github.io/tags/Netgear/"/>
-    
     <category term="补丁分析" scheme="https://cq674350529.github.io/tags/%E8%A1%A5%E4%B8%81%E5%88%86%E6%9E%90/"/>
+    
+    <category term="Netgear" scheme="https://cq674350529.github.io/tags/Netgear/"/>
     
   </entry>
   
@@ -407,26 +428,6 @@
     
     
     <category term="MikroTik" scheme="https://cq674350529.github.io/tags/MikroTik/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>htib2017 pwn 之 1000levels</title>
-    <link href="https://cq674350529.github.io/2019/05/12/htib2017-pwn-%E4%B9%8B-1000levels/"/>
-    <id>https://cq674350529.github.io/2019/05/12/htib2017-pwn-%E4%B9%8B-1000levels/</id>
-    <published>2019-05-12T09:19:30.000Z</published>
-    <updated>2022-11-24T01:56:33.030Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;最近在安全客上看到一篇文章&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cuYW5xdWFua2UuY29tL3Bvc3QvaWQvMTc3NTIw&quot;&gt;PIE保护详解和常用bypass手段&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;，里面提到了3种绕过PIE保护机制的方式：&lt;code&gt;partial write&lt;/code&gt;、&lt;code&gt;泄露地址&lt;/code&gt;和&lt;code&gt;vdso/vsyscall&lt;/code&gt;。由于之前对&lt;code&gt;vdso/vsyscall&lt;/code&gt;机制了解的不多，于是花了点时间动手实践，以下是对题目&lt;code&gt;1000levels&lt;/code&gt;的简单分析。&lt;/p&gt;
-&lt;h3 id=&quot;1000levels&quot;&gt;&lt;a href=&quot;#1000levels&quot; class=&quot;headerlink&quot; title=&quot;1000levels&quot;&gt;&lt;/a&gt;1000levels&lt;/h3&gt;&lt;h4 id=&quot;程序分析&quot;&gt;&lt;a href=&quot;#程序分析&quot; class=&quot;headerlink&quot; title=&quot;程序分析&quot;&gt;&lt;/a&gt;程序分析&lt;/h4&gt;&lt;p&gt;该程序提供的功能如下。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="CTF" scheme="https://cq674350529.github.io/categories/CTF/"/>
-    
-    
-    <category term="pwn" scheme="https://cq674350529.github.io/tags/pwn/"/>
     
   </entry>
   
