@@ -326,7 +326,7 @@
     <link href="https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/"/>
     <id>https://cq674350529.github.io/2020/05/09/%E6%8A%80%E5%B7%A7misc/</id>
     <published>2020-05-09T15:00:00.000Z</published>
-    <updated>2023-03-19T12:30:21.221Z</updated>
+    <updated>2024-03-24T08:39:13.353Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;qemu仿真出现Illegal-instruction错误&quot;&gt;&lt;a href=&quot;#qemu仿真出现Illegal-instruction错误&quot; class=&quot;headerlink&quot; title=&quot;qemu仿真出现Illegal instruction错误&quot;&gt;&lt;/a&gt;&lt;code&gt;qemu&lt;/code&gt;仿真出现Illegal instruction错误&lt;/h3&gt;&lt;p&gt;使用&lt;code&gt;qemu user mode&lt;/code&gt;运行单个程序时，可能会遇到Illegal instruction错误。尝试使用更新版本的&lt;code&gt;qemu-mipsel-static&lt;/code&gt;，也还是存在类似的问题。&lt;/p&gt;
