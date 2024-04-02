@@ -6,7 +6,7 @@
   <link href="https://cq674350529.github.io/atom.xml" rel="self"/>
   
   <link href="https://cq674350529.github.io/"/>
-  <updated>2024-04-02T15:03:59.315Z</updated>
+  <updated>2024-04-02T15:14:03.019Z</updated>
   <id>https://cq674350529.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cq674350529.github.io/2024/04/02/Analyzing-the-MiniDLNA-Http-Chunk-Parsing-Vulnerability-CVE-2023-33476/"/>
     <id>https://cq674350529.github.io/2024/04/02/Analyzing-the-MiniDLNA-Http-Chunk-Parsing-Vulnerability-CVE-2023-33476/</id>
     <published>2024-04-02T14:00:00.000Z</published>
-    <updated>2024-04-02T15:03:59.315Z</updated>
+    <updated>2024-04-02T15:14:03.019Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&lt;code&gt;CVE-2023-33476&lt;/code&gt;是存在于&lt;code&gt;ReadyMedia (MiniDLNA)&lt;/code&gt; &lt;code&gt;1.1.15 ~ 1.3.2&lt;/code&gt;版本中的一个越界读/写漏洞，该漏洞是由于在处理采用分块传输编码的HTTP请求时存在逻辑缺陷，通过伪造较大的分块长度，可造成后续进行拷贝时出现越界读/写问题。利用该漏洞，远程未授权的用户可实现任意代码执行。该漏洞是由安全研究员&lt;code&gt;@hyprdude&lt;/code&gt;发现，目前已在&lt;code&gt;MiniDLNA 1.3.3&lt;/code&gt;版本中修复了。同时，&lt;code&gt;@hyprdude&lt;/code&gt;还提供了详细的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9ibG9nLmNvZmZpbnNlYy5jb20vMGRheS8yMDIzLzA1LzMxL21pbmlkbG5hLWhlYXAtb3ZlcmZsb3ctcmNhLmh0bWw=&quot;&gt;漏洞分析&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;和&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9ibG9nLmNvZmZpbnNlYy5jb20vMGRheS8yMDIzLzA2LzE5L21pbmlkbG5hLWN2ZS0yMDIzLTMzNDc2LWV4cGxvaXRzLmh0bWw=&quot;&gt;利用思路&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;文章，感兴趣的可以看看。参考上面两篇文章，下文将对漏洞进行分析，并重点关注漏洞的利用思路。&lt;/p&gt;</summary>
