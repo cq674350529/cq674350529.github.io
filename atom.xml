@@ -6,7 +6,7 @@
   <link href="https://cq674350529.github.io/atom.xml" rel="self"/>
   
   <link href="https://cq674350529.github.io/"/>
-  <updated>2024-09-03T14:21:38.385Z</updated>
+  <updated>2024-09-05T14:04:44.014Z</updated>
   <id>https://cq674350529.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cq674350529.github.io/2024/09/03/Pwn2Own2020-Synology-NAS-Netatalk-Heap-Overflow-Analysis/"/>
     <id>https://cq674350529.github.io/2024/09/03/Pwn2Own2020-Synology-NAS-Netatalk-Heap-Overflow-Analysis/</id>
     <published>2024-09-03T14:00:00.000Z</published>
-    <updated>2024-09-03T14:21:38.385Z</updated>
+    <updated>2024-09-05T14:04:44.014Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在&lt;code&gt;Pwn2Own Tokyo 2020&lt;/code&gt;比赛上，有&lt;code&gt;2&lt;/code&gt;个团队攻破了群晖&lt;code&gt;DS418Play&lt;/code&gt;型号的&lt;code&gt;NAS&lt;/code&gt;设备，其中&lt;code&gt;DEVCORE&lt;/code&gt;团队利用一个堆溢出漏洞在设备上实现了代码执行。根据&lt;code&gt;ZDI&lt;/code&gt;的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cuemVyb2RheWluaXRpYXRpdmUuY29tL2Fkdmlzb3JpZXMvWkRJLTIxLTQ5Mi8=&quot;&gt;公告&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;，漏洞存在于&lt;code&gt;Netatalk&lt;/code&gt;组件中，在解析&lt;code&gt;DSI&lt;/code&gt;结构体时由于缺乏对某个长度字段的适当校验，在后续进行拷贝时会出现堆溢出。目前群晖已发布了补丁，该漏洞的触发相对比较简单，参考&lt;code&gt;@Angelboy&lt;/code&gt;的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oaXRjb24ub3JnLzIwMjEvYWdlbmRhLzAzZjA2Njc1LTI2MWQtNGM5Ny1iNTI0LTMzZWY5Y2M2Y2NiMi8lRTQlQkQlQTAlRTclOUElODQlMjBOQVMlMjAlRTQlQjglOEQlRTYlOTglQUYlRTQlQkQlQTAlRTclOUElODQlMjBOQVMlMjAhLnBkZg==&quot;&gt;分享&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;，在本地环境中完成了对漏洞的利用。&lt;/p&gt;</summary>
@@ -30,7 +30,7 @@
     
     <category term="IoT" scheme="https://cq674350529.github.io/categories/IoT/"/>
     
-    <category term="漏洞" scheme="https://cq674350529.github.io/categories/IoT/%E6%BC%8F%E6%B4%9E/"/>
+    <category term="漏洞" scheme="https://cq674350529.github.io/categories/%E6%BC%8F%E6%B4%9E/"/>
     
     
     <category term="Synology" scheme="https://cq674350529.github.io/tags/Synology/"/>
