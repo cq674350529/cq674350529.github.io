@@ -6,7 +6,7 @@
   <link href="https://cq674350529.github.io/atom.xml" rel="self"/>
   
   <link href="https://cq674350529.github.io/"/>
-  <updated>2024-09-05T14:04:44.014Z</updated>
+  <updated>2025-10-27T12:24:35.469Z</updated>
   <id>https://cq674350529.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Partial Emulation with Qiling/QEMU</title>
+    <link href="https://cq674350529.github.io/2025/10/27/Partial-Emulation-with-Qiling-QEMU/"/>
+    <id>https://cq674350529.github.io/2025/10/27/Partial-Emulation-with-Qiling-QEMU/</id>
+    <published>2025-10-27T12:00:00.000Z</published>
+    <updated>2025-10-27T12:24:35.469Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="基础" scheme="https://cq674350529.github.io/categories/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="仿真" scheme="https://cq674350529.github.io/tags/%E4%BB%BF%E7%9C%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>Pwn2Own2020 Synology NAS Netatalk Heap Overflow Analysis</title>
@@ -400,30 +425,6 @@
     
     
     <category term="MikroTik" scheme="https://cq674350529.github.io/tags/MikroTik/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>C与汇编语言混合使用</title>
-    <link href="https://cq674350529.github.io/2020/01/13/C%E4%B8%8E%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E6%B7%B7%E5%90%88%E4%BD%BF%E7%94%A8/"/>
-    <id>https://cq674350529.github.io/2020/01/13/C%E4%B8%8E%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E6%B7%B7%E5%90%88%E4%BD%BF%E7%94%A8/</id>
-    <published>2020-01-13T13:41:10.000Z</published>
-    <updated>2022-11-24T01:55:14.093Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在某些情况下，我们可能会将C代码与汇编代码一起混合使用。比如，使用汇编代码直接与硬件进行交互，或者在处理任务时希望占用尽量少的资源同时获得最大的性能，而使用C代码处理一些更高级 的任务。通常情况下，混合使用C与汇编可分为以下三种情形：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在C中调用汇编中定义的函数&lt;/li&gt;
-&lt;li&gt;在汇编中调用C语言中的函数&lt;/li&gt;
-&lt;li&gt;直接在C语言中嵌入汇编&lt;/li&gt;
-&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="基础" scheme="https://cq674350529.github.io/categories/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-    <category term="系统调用" scheme="https://cq674350529.github.io/tags/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/"/>
     
   </entry>
   
