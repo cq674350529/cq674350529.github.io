@@ -6,7 +6,7 @@
   <link href="https://cq674350529.github.io/atom.xml" rel="self"/>
   
   <link href="https://cq674350529.github.io/"/>
-  <updated>2025-10-27T12:24:35.469Z</updated>
+  <updated>2025-10-27T12:30:23.724Z</updated>
   <id>https://cq674350529.github.io/</id>
   
   <author>
@@ -21,16 +21,10 @@
     <link href="https://cq674350529.github.io/2025/10/27/Partial-Emulation-with-Qiling-QEMU/"/>
     <id>https://cq674350529.github.io/2025/10/27/Partial-Emulation-with-Qiling-QEMU/</id>
     <published>2025-10-27T12:00:00.000Z</published>
-    <updated>2025-10-27T12:24:35.469Z</updated>
+    <updated>2025-10-27T12:30:23.724Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在对嵌入式设备进行安全研究时，经常需要对目标设备固件或单个程序进行仿真，以便进行调试分析或漏洞验证。目前常见的几种仿真方法包括使用&lt;code&gt;qemu system mode&lt;/code&gt;进行全系统仿真、使用&lt;code&gt;qemu user mode&lt;/code&gt;进行单个程序仿真，以及使用&lt;code&gt;Unicorn&lt;/code&gt;进行任意代码片段仿真。本文将结合&lt;code&gt;qemu user mode&lt;/code&gt;单个程序仿真和&lt;code&gt;Unicorn&lt;/code&gt;代码片段仿真这两种方法的优势，提出一种称为局部仿真(&lt;code&gt;partial emulation&lt;/code&gt;)的方法，并以两个实际案例为例，对该方法进行介绍。&lt;/p&gt;</summary>
     
     
     
